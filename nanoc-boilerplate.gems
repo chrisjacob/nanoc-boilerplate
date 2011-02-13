@@ -3,6 +3,7 @@
 rake -v0.8.7 # http://rubygems.org/gems/rake
 cri -v1.0.1 # http://rubygems.org/gems/cri
 nanoc -v3.1.6 # http://rubygems.org/gems/nanoc
+# nanoc3 -v3.1.6 # http://rubygems.org/gems/nanoc3 # The "nanoc3" gem requires you to type "nanoc3" for all commands - so I prefer the "nanoc" gem (which internally points to nanoc3 for all "nanoc" commands)
 rack -v1.2.1 # http://rubygems.org/gems/rack
 adsf -v1.0.1 # http://rubygems.org/gems/adsf
 kramdown -v0.13.1 # http://rubygems.org/gems/kramdown
