@@ -5,8 +5,8 @@
 # (EDIT: SOURCE: https://github.com/wayneeseguin/rvm-site/blob/master/.rvmrc)
 
 # First we specify our desired <ruby>[@<gemset>], the @gemset name is optional.
-environment_id="ruby-1.9.2-p136@boilerplate"
-# environment_id="ruby-1.8.1-p330@boilerplate"
+environment_id="ruby-1.9.2-p136@nanoc-boilerplate"
+# environment_id="ruby-1.8.1-p330@nanoc-boilerplate"
 
 #
 # First we attempt to load the desired environment directly from the environment
@@ -27,7 +27,7 @@ fi
 # it be automatically loaded, uncomment the following and adjust the filename if
 # necessary. (EDIT: DONE)
 #
-filename="boilerplate.gems"
+filename="nanoc-boilerplate.gems"
 if [[ -s "$filename" ]] ; then
   rvm gemset import "$filename" | grep -v already | grep -v listed | grep -v complete | sed '/^$/d'
 fi
