@@ -6,13 +6,7 @@ cri -v1.0.1 # http://rubygems.org/gems/cri # "nanoc3" installs "cri" as a runtim
 nanoc3 -v3.1.6 # http://rubygems.org/gems/nanoc3 # "nanoc" installs "nanoc3" as a runtime dependency. The "nanoc" gem (executable) proxies to "nanoc3" executable. 
 nanoc -v3.1.6 # http://rubygems.org/gems/nanoc
 
-
 rack -v1.2.1 # http://rubygems.org/gems/rack # "adsf" installs "rack" as a runtime dependency
 adsf -v1.0.1 # http://rubygems.org/gems/adsf
 
 kramdown -v0.13.1 # http://rubygems.org/gems/kramdown
-
-open4 -v0.9.6 # http://rubygems.org/gems/open4
-# open4 -v1.0.1 # http://rubygems.org/gems/open4 # this is the most recent version of open4. But 0.9.6 was recommended by gash so I'm using that instead.
-gash -v0.1.3 # http://rubygems.org/gems/gash
-grancher -v0.1.5 # http://rubygems.org/gems/grancher
