@@ -10,6 +10,7 @@ GitHub Pages: [http://chrisjacob.github.com/nanoc-boilerplate/](http://chrisjaco
 
 nanoc: [http://nanoc.stoneship.org/](http://nanoc.stoneship.org/)
 
+Local Setup: [Setup GitHub Pages "gh-pages" branch and "master" branch as subfolders of a parent project folder ("grandmaster")](https://gist.github.com/833223)
 
 ## Random Notes
 * Setup a GitHub Pages project page: [http://pages.github.com/](http://pages.github.com/)
